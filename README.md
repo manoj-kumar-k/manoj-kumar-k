@@ -1,7 +1,7 @@
 ### Hello Everyone
-  🌱 I’m currently learning Python, MySQL and Machine Learning
-  👯 I’m looking to collaborate on projects related to python, MySQL and Machine Learning
-  🤔 I’m looking for help with python coding and machine learning
+  🌱 I’m currently learning Python, MySQL and Machine Learning.
+  👯 I’m looking to collaborate on projects related to python, MySQL and Machine Learning.
+  🤔 I’m looking for help with python coding and machine learning.
   
 
 <!--
